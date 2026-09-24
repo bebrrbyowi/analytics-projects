@@ -37,7 +37,8 @@
 - Python + Pandas + Seaborn + Matplotlib + Phik
 
 ## Python + SQL
-Исследование лояльности пользователей Яндекс Афиши
+
+### Исследование лояльности пользователей Яндекс Афиши
 
 Файл: `project_afisha.ipynb`
 
